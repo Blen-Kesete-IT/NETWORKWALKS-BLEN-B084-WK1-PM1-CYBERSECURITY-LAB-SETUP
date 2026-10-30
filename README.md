@@ -18,7 +18,8 @@ This project documents the setup of a cybersecurity lab using VertualBox and Kal
 
 1. Downloaded and installed 7-Zip on Windows.
 
-<img width="920" height="599" alt="image" src="https://github.com/user-attachments/assets/a863be8c-b3fb-44bb-bbab-24f1647966a3" />
+<img width="525" height="452" alt="image" src="https://github.com/user-attachments/assets/379b8b19-991f-430a-93e0-6b573de51fcb" />
+
 
 
 
@@ -32,6 +33,6 @@ This project documents the setup of a cybersecurity lab using VertualBox and Kal
 
    <img width="964" height="561" alt="NAT Networks" src="https://github.com/user-attachments/assets/5a8a390a-90c7-4add-a551-3f8732f42d01" />
 
-6. Downloaded and import the Kali Linux Machine in my Virtualbox.
+6. Downloaded and imported the Kali Linux Machine in my Virtualbox.
 
-## Screenshots
+
