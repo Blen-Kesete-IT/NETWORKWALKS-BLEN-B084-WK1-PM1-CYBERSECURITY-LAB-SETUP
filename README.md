@@ -18,7 +18,8 @@ This project documents the setup of a cybersecurity lab using VertualBox and Kal
 
 1. Downloaded and installed 7-Zip on Windows.
 
- <img width="875" height="512" alt="image" src="https://github.com/user-attachments/assets/03ef97cd-8c6b-4440-9402-3c46fd39a9dd" />
+<img width="920" height="599" alt="image" src="https://github.com/user-attachments/assets/a863be8c-b3fb-44bb-bbab-24f1647966a3" />
+
 
 
 2. Installed Oracle VirtualBox on Windows.
