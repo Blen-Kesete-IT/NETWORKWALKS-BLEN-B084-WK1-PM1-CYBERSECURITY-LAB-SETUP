@@ -23,8 +23,14 @@ This project documents the setup of a cybersecurity lab using VertualBox and Kal
 
 2. Installed Oracle VirtualBox on Windows.
 
+   <img width="1004" height="620" alt="image" src="https://github.com/user-attachments/assets/8a4b7f42-66e6-471e-89dc-70449324a8ea" />
+
+
    
 3. Configured a NAT Network in Orecle VirtualBox.
-5. Downloaded and import the Kali Linux Machine in my Virtualbox.
+
+   <img width="964" height="561" alt="NAT Networks" src="https://github.com/user-attachments/assets/5a8a390a-90c7-4add-a551-3f8732f42d01" />
+
+6. Downloaded and import the Kali Linux Machine in my Virtualbox.
 
 ## Screenshots
