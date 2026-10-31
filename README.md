@@ -36,3 +36,4 @@ This project documents the setup of a cybersecurity lab using VertualBox and Kal
 6. Downloaded and imported the Kali Linux Machine in my Virtualbox.
 
 
+<img width="859" height="703" alt="Kali" src="https://github.com/user-attachments/assets/521884eb-5bb4-48c0-99f9-9fa3f50e8144" />
